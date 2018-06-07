@@ -1,2 +1,2 @@
 # RassiaSimulator
-Simulator life of rassian (not russian, it is important) oligarches
+Simulator of life of rassian (not russian, it is important) oligarches
